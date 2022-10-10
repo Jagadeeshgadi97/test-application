@@ -1,0 +1,18 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.movies{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.card{
+  width: 15rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.rem;
+}
+.poster img{
+  width: 15rem;
+}
